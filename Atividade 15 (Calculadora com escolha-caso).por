@@ -31,6 +31,8 @@ programa {
       resultado = n1 / n2
       escreva(n1, " / ", n2, " = ", resultado)
       pare
+      caso contrario:
+      escreva ("Opção invalida")
     }
   }
  }
